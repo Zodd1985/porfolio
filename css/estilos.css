@@ -35,6 +35,13 @@ nav .active{
     color: white !important;
 
 }
+.img-circle {
+    margin: 1em auto;
+    display: block;
+    background-color: black;
+    padding: 5px;
+    border-radius: 30%;
+}
 #inicio .div-compu{
     height: 410px;
 }#inicio .compu{
